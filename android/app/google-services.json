@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677807799733",
+    "project_id": "civeosandbox-24f57",
+    "storage_bucket": "civeosandbox-24f57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677807799733:android:c05c1c5b7bf7141e40edfc",
+        "android_client_info": {
+          "package_name": "com.civeohub.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677807799733-5s3l7pkp417c4meda3sbpqt39l0pn91e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BtOYl25c6KEu3m6te98n_HWf_b1jyK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677807799733-5s3l7pkp417c4meda3sbpqt39l0pn91e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
