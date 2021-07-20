@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.nativebuild.mobile"
+        applicationId "com.civeohub.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
